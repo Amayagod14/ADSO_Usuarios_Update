@@ -22,3 +22,5 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     Foto: <input type="text" name="foto"><br>
     <input type="submit" value="Registrar">
 </form>
+<br>
+<a href="login.php">vamos a iniciar sesion si ya tienes una cuenta.</a>

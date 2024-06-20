@@ -18,3 +18,5 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     Contraseña: <input type="password" name="contrasena" required><br>
     <input type="submit" value="Iniciar Sesión">
 </form>
+<br>
+<a href="registro.php">Vamos a registrar a un nuevo usuario!!!</a>

@@ -23,3 +23,5 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET' && isset($_GET['documento'])) {
     Foto: <input type="text" name="foto" value="<?php echo $usuario['foto']; ?>"><br>
     <input type="submit" value="Actualizar">
 </form>
+<br>
+<a href="registro.php">Vamos a registrar a un nuevo usuario!!!</a>

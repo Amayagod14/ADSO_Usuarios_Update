@@ -30,3 +30,5 @@ $usuarios = Usuario::obtenerTodos();
         </tr>
     <?php endforeach; ?>
 </table>
+<br>
+<a href="registro.php">Vamos a registrar a un nuevo usuario!!!</a>
